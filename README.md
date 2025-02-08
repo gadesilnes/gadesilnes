@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Gabriel Neves
-- 👀 I’m interested in live soft, big data(azure, aws, GCP), scala, java, python, databricks, snowflake and learn new things(things that are worthwhile)
+- 👀 I’m interested in live soft, big data(azure, aws, GCP), scala, java, python, databricks, snowflake and learn new things(things that are worthwhile).
+
+- Now programming in Solidity✨
 
 
 <!---
